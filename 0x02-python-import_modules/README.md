@@ -1,1 +1,1 @@
-This is the  README.md file for this project
+This is a README.md file for this project
