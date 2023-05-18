@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# function that prints x elements of a list
+# function that prints x elements of a given list
 
 
 def safe_print_list(my_list=[], x=0):
